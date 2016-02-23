@@ -1,4 +1,4 @@
-// FET Version 1.0
+// FET Version 1.1
 //Separator for splitting commands
 var SEPARATOR = "  ";
 var Header="";
