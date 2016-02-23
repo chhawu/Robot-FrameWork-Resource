@@ -1,0 +1,2 @@
+# RobotFrameResource
+Selenium IDE Script
